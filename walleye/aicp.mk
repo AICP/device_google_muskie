@@ -11,7 +11,7 @@ $(call inherit-product, device/google/muskie/aosp_walleye.mk)
 -include device/google/wahoo/device-lineage.mk
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := lineage_walleye
+PRODUCT_NAME := aicp_walleye
 PRODUCT_BRAND := google
 PRODUCT_MODEL := Pixel 2
 TARGET_MANUFACTURER := Google
